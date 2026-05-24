@@ -220,7 +220,9 @@ SELECT customer_id, cust_name, city, grade, salesman_id FROM customer WHERE grad
 
 **Output:**
 
-<img width="1245" height="388" alt="Screenshot 2026-05-24 210624" src="https://github.com/user-attachments/assets/f9569bba-0b14-4cea-ac27-c8c39d5c55bf" />
+<img width="1252" height="388" alt="Screenshot 2026-05-24 211126" src="https://github.com/user-attachments/assets/d38c0793-bdf3-4c9e-bb7b-3e7d7326b752" />
+
+
 
 **Question 9**
 ---
@@ -281,7 +283,8 @@ WHERE age > 50;
 
 **Output:**
 
-<img width="1193" height="682" alt="Screenshot 2026-05-24 210650" src="https://github.com/user-attachments/assets/7f11fdb4-4661-4c8f-87cb-3886d5aa0718" />
+<img width="1201" height="679" alt="Screenshot 2026-05-24 211054" src="https://github.com/user-attachments/assets/c925cd6b-e3bd-4a84-8988-36d61a0e7aac" />
+
 
 ## RESULT
 Thus, the SQL queries to implement DML commands have been executed successfully.
